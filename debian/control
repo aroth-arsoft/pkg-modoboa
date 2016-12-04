@@ -1,0 +1,25 @@
+Source: modoboa
+Section: admin
+Priority: optional
+Maintainer: Andreas Roth <aroth@arsoft-online.com>
+Standards-Version: 3.9.8
+Build-Depends: debhelper (>= 9), dh-python, python (>= 2.7), python-dateutil, python-setuptools
+X-Python-Version: >=2.7
+
+Package: python-modoboa
+Section: python
+Architecture: all
+Depends: ${python:Depends}, ${misc:Depends}, modoboa-data, ckeditor, libjs-jquery, fonts-font-awesome,
+ python-django-rest-swagger, python-django-jsonfield, python-django-database-url,
+ python-django-versionfield2
+Description: mail hosting and management platform
+ Modoboa is a mail hosting and management platform including a modern and
+ simplified Web User Interface. It comes with useful components such as an
+ administration panel, a frontend for amavis or a webmail.
+
+Package: modoboa-data
+Section: python
+Architecture: all
+Depends: ${misc:Depends}
+Description: data file for Modoboa
+ contains all static data and configuration files for Modoboa

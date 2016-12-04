@@ -1,0 +1,281 @@
+modoboa source: source-is-missing doc/.build/html/_static/jquery.js line length is 32714 characters (>512)
+modoboa source: source-is-missing doc/.build/html/_static/underscore.js line length is 519 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/ckeditor.js line length is 579 characters (>512)
+modoboa source: source-is-missing modoboa/bower_components/eonasdan-bootstrap-datetimepicker/build/js/bootstrap-datetimepicker.min.js
+modoboa source: source-is-missing modoboa/bower_components/jquery/test/unit/css.js line length is 301 characters (>256)
+modoboa source: source-is-missing modoboa/bower_components/jquery/test/unit/manipulation.js line length is 364 characters (>256)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/adapters/jquery.js line length is 522 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/lang/af.js line length is 16899 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/lang/ar.js line length is 21995 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/lang/bg.js line length is 24135 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/lang/bn.js line length is 23181 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/lang/bs.js line length is 16845 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/lang/ca.js line length is 18668 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/lang/cs.js line length is 18554 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/lang/cy.js line length is 17363 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/lang/da.js line length is 17619 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/lang/de.js line length is 18290 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/lang/el.js line length is 27547 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/lang/en-au.js line length is 16697 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/lang/en-ca.js line length is 16697 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/lang/en-gb.js line length is 16712 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/lang/en.js line length is 16712 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/lang/eo.js line length is 18101 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/lang/es.js line length is 18771 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/lang/et.js line length is 17513 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/lang/eu.js line length is 18179 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/lang/fa.js line length is 23332 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/lang/fi.js line length is 17979 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/lang/fo.js line length is 17895 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/lang/fr-ca.js line length is 18701 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/lang/fr.js line length is 19202 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/lang/gl.js line length is 18748 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/lang/gu.js line length is 29539 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/lang/he.js line length is 21465 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/lang/hi.js line length is 23924 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/lang/hr.js line length is 17307 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/lang/hu.js line length is 19047 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/lang/id.js line length is 17088 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/lang/is.js line length is 17342 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/lang/it.js line length is 18490 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/lang/ja.js line length is 20687 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/lang/ka.js line length is 32617 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/lang/km.js line length is 32602 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/lang/ko.js line length is 17913 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/lang/ku.js line length is 25245 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/lang/lt.js line length is 18648 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/lang/lv.js line length is 18768 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/lang/mk.js line length is 16715 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/lang/mn.js line length is 22218 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/lang/ms.js line length is 17118 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/lang/nb.js line length is 17145 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/lang/nl.js line length is 17933 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/lang/no.js line length is 17122 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/lang/pl.js line length is 18684 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/lang/pt-br.js line length is 18990 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/lang/pt.js line length is 18711 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/lang/ro.js line length is 19357 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/lang/ru.js line length is 27064 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/lang/si.js line length is 24357 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/lang/sk.js line length is 18796 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/lang/sl.js line length is 17634 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/lang/sq.js line length is 19079 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/lang/sr-latn.js line length is 17271 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/lang/sr.js line length is 21167 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/lang/sv.js line length is 17334 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/lang/th.js line length is 28151 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/lang/tr.js line length is 18263 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/lang/tt.js line length is 21749 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/lang/ug.js line length is 25838 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/lang/uk.js line length is 26384 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/lang/vi.js line length is 20740 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/lang/zh-cn.js line length is 16410 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/lang/zh.js line length is 16403 characters (>512)
+modoboa source: source-is-missing modoboa/bower_components/jquery-ui/ui/minified/i18n/datepicker-af.min.js
+modoboa source: source-is-missing modoboa/bower_components/jquery-ui/ui/minified/i18n/datepicker-ar-DZ.min.js
+modoboa source: source-is-missing modoboa/bower_components/jquery-ui/ui/minified/i18n/datepicker-ar.min.js
+modoboa source: source-is-missing modoboa/bower_components/jquery-ui/ui/minified/i18n/datepicker-az.min.js
+modoboa source: source-is-missing modoboa/bower_components/jquery-ui/ui/minified/i18n/datepicker-be.min.js
+modoboa source: source-is-missing modoboa/bower_components/jquery-ui/ui/minified/i18n/datepicker-bg.min.js
+modoboa source: source-is-missing modoboa/bower_components/jquery-ui/ui/minified/i18n/datepicker-bs.min.js
+modoboa source: source-is-missing modoboa/bower_components/jquery-ui/ui/minified/i18n/datepicker-ca.min.js
+modoboa source: source-is-missing modoboa/bower_components/jquery-ui/ui/minified/i18n/datepicker-cs.min.js
+modoboa source: source-is-missing modoboa/bower_components/jquery-ui/ui/minified/i18n/datepicker-cy-GB.min.js
+modoboa source: source-is-missing modoboa/bower_components/jquery-ui/ui/minified/i18n/datepicker-da.min.js
+modoboa source: source-is-missing modoboa/bower_components/jquery-ui/ui/minified/i18n/datepicker-de.min.js
+modoboa source: source-is-missing modoboa/bower_components/jquery-ui/ui/minified/i18n/datepicker-el.min.js
+modoboa source: source-is-missing modoboa/bower_components/jquery-ui/ui/minified/i18n/datepicker-en-AU.min.js
+modoboa source: source-is-missing modoboa/bower_components/jquery-ui/ui/minified/i18n/datepicker-en-GB.min.js
+modoboa source: source-is-missing modoboa/bower_components/jquery-ui/ui/minified/i18n/datepicker-en-NZ.min.js
+modoboa source: source-is-missing modoboa/bower_components/jquery-ui/ui/minified/i18n/datepicker-eo.min.js
+modoboa source: source-is-missing modoboa/bower_components/jquery-ui/ui/minified/i18n/datepicker-es.min.js
+modoboa source: source-is-missing modoboa/bower_components/jquery-ui/ui/minified/i18n/datepicker-et.min.js
+modoboa source: source-is-missing modoboa/bower_components/jquery-ui/ui/minified/i18n/datepicker-eu.min.js
+modoboa source: source-is-missing modoboa/bower_components/jquery-ui/ui/minified/i18n/datepicker-fa.min.js
+modoboa source: source-is-missing modoboa/bower_components/jquery-ui/ui/minified/i18n/datepicker-fi.min.js
+modoboa source: source-is-missing modoboa/bower_components/jquery-ui/ui/minified/i18n/datepicker-fo.min.js
+modoboa source: source-is-missing modoboa/bower_components/jquery-ui/ui/minified/i18n/datepicker-fr-CA.min.js
+modoboa source: source-is-missing modoboa/bower_components/jquery-ui/ui/minified/i18n/datepicker-fr-CH.min.js
+modoboa source: source-is-missing modoboa/bower_components/jquery-ui/ui/minified/i18n/datepicker-fr.min.js
+modoboa source: source-is-missing modoboa/bower_components/jquery-ui/ui/minified/i18n/datepicker-gl.min.js
+modoboa source: source-is-missing modoboa/bower_components/jquery-ui/ui/minified/i18n/datepicker-he.min.js
+modoboa source: source-is-missing modoboa/bower_components/jquery-ui/ui/minified/i18n/datepicker-hi.min.js
+modoboa source: source-is-missing modoboa/bower_components/jquery-ui/ui/minified/i18n/datepicker-hr.min.js
+modoboa source: source-is-missing modoboa/bower_components/jquery-ui/ui/minified/i18n/datepicker-hu.min.js
+modoboa source: source-is-missing modoboa/bower_components/jquery-ui/ui/minified/i18n/datepicker-hy.min.js
+modoboa source: source-is-missing modoboa/bower_components/jquery-ui/ui/minified/i18n/datepicker-id.min.js
+modoboa source: source-is-missing modoboa/bower_components/jquery-ui/ui/minified/i18n/datepicker-is.min.js
+modoboa source: source-is-missing modoboa/bower_components/jquery-ui/ui/minified/i18n/datepicker-it-CH.min.js
+modoboa source: source-is-missing modoboa/bower_components/jquery-ui/ui/minified/i18n/datepicker-it.min.js
+modoboa source: source-is-missing modoboa/bower_components/jquery-ui/ui/minified/i18n/datepicker-ja.min.js
+modoboa source: source-is-missing modoboa/bower_components/jquery-ui/ui/minified/i18n/datepicker-ka.min.js
+modoboa source: source-is-missing modoboa/bower_components/jquery-ui/ui/minified/i18n/datepicker-kk.min.js
+modoboa source: source-is-missing modoboa/bower_components/jquery-ui/ui/minified/i18n/datepicker-km.min.js
+modoboa source: source-is-missing modoboa/bower_components/jquery-ui/ui/minified/i18n/datepicker-ko.min.js
+modoboa source: source-is-missing modoboa/bower_components/jquery-ui/ui/minified/i18n/datepicker-ky.min.js
+modoboa source: source-is-missing modoboa/bower_components/jquery-ui/ui/minified/i18n/datepicker-lb.min.js
+modoboa source: source-is-missing modoboa/bower_components/jquery-ui/ui/minified/i18n/datepicker-lt.min.js
+modoboa source: source-is-missing modoboa/bower_components/jquery-ui/ui/minified/i18n/datepicker-lv.min.js
+modoboa source: source-is-missing modoboa/bower_components/jquery-ui/ui/minified/i18n/datepicker-mk.min.js
+modoboa source: source-is-missing modoboa/bower_components/jquery-ui/ui/minified/i18n/datepicker-ml.min.js
+modoboa source: source-is-missing modoboa/bower_components/jquery-ui/ui/minified/i18n/datepicker-ms.min.js
+modoboa source: source-is-missing modoboa/bower_components/jquery-ui/ui/minified/i18n/datepicker-nb.min.js
+modoboa source: source-is-missing modoboa/bower_components/jquery-ui/ui/minified/i18n/datepicker-nl-BE.min.js
+modoboa source: source-is-missing modoboa/bower_components/jquery-ui/ui/minified/i18n/datepicker-nl.min.js
+modoboa source: source-is-missing modoboa/bower_components/jquery-ui/ui/minified/i18n/datepicker-nn.min.js
+modoboa source: source-is-missing modoboa/bower_components/jquery-ui/ui/minified/i18n/datepicker-no.min.js
+modoboa source: source-is-missing modoboa/bower_components/jquery-ui/ui/minified/i18n/datepicker-pl.min.js
+modoboa source: source-is-missing modoboa/bower_components/jquery-ui/ui/minified/i18n/datepicker-pt-BR.min.js
+modoboa source: source-is-missing modoboa/bower_components/jquery-ui/ui/minified/i18n/datepicker-pt.min.js
+modoboa source: source-is-missing modoboa/bower_components/jquery-ui/ui/minified/i18n/datepicker-rm.min.js
+modoboa source: source-is-missing modoboa/bower_components/jquery-ui/ui/minified/i18n/datepicker-ro.min.js
+modoboa source: source-is-missing modoboa/bower_components/jquery-ui/ui/minified/i18n/datepicker-ru.min.js
+modoboa source: source-is-missing modoboa/bower_components/jquery-ui/ui/minified/i18n/datepicker-sk.min.js
+modoboa source: source-is-missing modoboa/bower_components/jquery-ui/ui/minified/i18n/datepicker-sl.min.js
+modoboa source: source-is-missing modoboa/bower_components/jquery-ui/ui/minified/i18n/datepicker-sq.min.js
+modoboa source: source-is-missing modoboa/bower_components/jquery-ui/ui/minified/i18n/datepicker-sr-SR.min.js
+modoboa source: source-is-missing modoboa/bower_components/jquery-ui/ui/minified/i18n/datepicker-sr.min.js
+modoboa source: source-is-missing modoboa/bower_components/jquery-ui/ui/minified/i18n/datepicker-sv.min.js
+modoboa source: source-is-missing modoboa/bower_components/jquery-ui/ui/minified/i18n/datepicker-ta.min.js
+modoboa source: source-is-missing modoboa/bower_components/jquery-ui/ui/minified/i18n/datepicker-th.min.js
+modoboa source: source-is-missing modoboa/bower_components/jquery-ui/ui/minified/i18n/datepicker-tj.min.js
+modoboa source: source-is-missing modoboa/bower_components/jquery-ui/ui/minified/i18n/datepicker-tr.min.js
+modoboa source: source-is-missing modoboa/bower_components/jquery-ui/ui/minified/i18n/datepicker-uk.min.js
+modoboa source: source-is-missing modoboa/bower_components/jquery-ui/ui/minified/i18n/datepicker-vi.min.js
+modoboa source: source-is-missing modoboa/bower_components/jquery-ui/ui/minified/i18n/datepicker-zh-CN.min.js
+modoboa source: source-is-missing modoboa/bower_components/jquery-ui/ui/minified/i18n/datepicker-zh-HK.min.js
+modoboa source: source-is-missing modoboa/bower_components/jquery-ui/ui/minified/i18n/datepicker-zh-TW.min.js
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/a11yhelp/dialogs/a11yhelp.js line length is 526 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/about/dialogs/about.js line length is 559 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/clipboard/dialogs/paste.js line length is 534 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/colordialog/dialogs/colordialog.js line length is 514 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/div/dialogs/div.js line length is 517 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/find/dialogs/find.js line length is 564 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/flash/dialogs/flash.js line length is 513 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/forms/dialogs/button.js line length is 520 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/forms/dialogs/checkbox.js line length is 521 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/forms/dialogs/form.js line length is 525 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/forms/dialogs/hiddenfield.js line length is 530 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/forms/dialogs/radio.js line length is 529 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/forms/dialogs/select.js line length is 527 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/forms/dialogs/textarea.js line length is 529 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/forms/dialogs/textfield.js line length is 514 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/iframe/dialogs/iframe.js line length is 515 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/image/dialogs/image.js line length is 515 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/link/dialogs/anchor.js line length is 533 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/link/dialogs/link.js line length is 531 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/liststyle/dialogs/liststyle.js line length is 561 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/pastefromword/filter/default.js line length is 517 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/scayt/dialogs/options.js line length is 526 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/smiley/dialogs/smiley.js line length is 571 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/specialchar/dialogs/specialchar.js line length is 514 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/table/dialogs/table.js line length is 521 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/tabletools/dialogs/tableCell.js line length is 528 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/templates/dialogs/templates.js line length is 539 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/templates/templates/default.js line length is 538 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/wsc/dialogs/wsc.js line length is 514 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/wsc/dialogs/wsc_ie.js line length is 516 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/samples/assets/uilanguages/languages.js line length is 516 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/a11yhelp/dialogs/lang/ar.js line length is 870 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/a11yhelp/dialogs/lang/bg.js line length is 872 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/a11yhelp/dialogs/lang/ca.js line length is 519 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/a11yhelp/dialogs/lang/cs.js line length is 570 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/a11yhelp/dialogs/lang/cy.js line length is 940 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/a11yhelp/dialogs/lang/da.js line length is 882 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/a11yhelp/dialogs/lang/de.js line length is 571 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/a11yhelp/dialogs/lang/el.js line length is 870 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/a11yhelp/dialogs/lang/en-gb.js line length is 874 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/a11yhelp/dialogs/lang/en.js line length is 871 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/a11yhelp/dialogs/lang/eo.js line length is 542 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/a11yhelp/dialogs/lang/es.js line length is 526 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/a11yhelp/dialogs/lang/et.js line length is 880 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/a11yhelp/dialogs/lang/fa.js line length is 802 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/a11yhelp/dialogs/lang/fi.js line length is 558 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/a11yhelp/dialogs/lang/fr-ca.js line length is 625 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/a11yhelp/dialogs/lang/fr.js line length is 643 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/a11yhelp/dialogs/lang/gl.js line length is 567 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/a11yhelp/dialogs/lang/gu.js line length is 971 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/a11yhelp/dialogs/lang/he.js line length is 1244 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/a11yhelp/dialogs/lang/hi.js line length is 885 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/a11yhelp/dialogs/lang/hr.js line length is 513 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/a11yhelp/dialogs/lang/hu.js line length is 569 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/a11yhelp/dialogs/lang/id.js line length is 866 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/a11yhelp/dialogs/lang/it.js line length is 580 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/a11yhelp/dialogs/lang/ja.js line length is 1300 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/a11yhelp/dialogs/lang/km.js line length is 1080 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/a11yhelp/dialogs/lang/ko.js line length is 932 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/a11yhelp/dialogs/lang/ku.js line length is 829 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/a11yhelp/dialogs/lang/lt.js line length is 880 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/a11yhelp/dialogs/lang/lv.js line length is 546 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/a11yhelp/dialogs/lang/mk.js line length is 620 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/a11yhelp/dialogs/lang/mn.js line length is 878 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/a11yhelp/dialogs/lang/nb.js line length is 532 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/a11yhelp/dialogs/lang/nl.js line length is 534 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/a11yhelp/dialogs/lang/no.js line length is 532 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/a11yhelp/dialogs/lang/pl.js line length is 548 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/a11yhelp/dialogs/lang/pt-br.js line length is 535 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/a11yhelp/dialogs/lang/pt.js line length is 541 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/a11yhelp/dialogs/lang/ro.js line length is 555 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/a11yhelp/dialogs/lang/ru.js line length is 1638 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/a11yhelp/dialogs/lang/si.js line length is 1877 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/a11yhelp/dialogs/lang/sk.js line length is 566 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/a11yhelp/dialogs/lang/sl.js line length is 523 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/a11yhelp/dialogs/lang/sq.js line length is 901 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/a11yhelp/dialogs/lang/sr-latn.js line length is 875 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/a11yhelp/dialogs/lang/sr.js line length is 874 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/a11yhelp/dialogs/lang/sv.js line length is 536 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/a11yhelp/dialogs/lang/th.js line length is 982 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/a11yhelp/dialogs/lang/tr.js line length is 552 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/a11yhelp/dialogs/lang/tt.js line length is 876 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/a11yhelp/dialogs/lang/ug.js line length is 1571 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/a11yhelp/dialogs/lang/uk.js line length is 835 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/a11yhelp/dialogs/lang/vi.js line length is 1150 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/a11yhelp/dialogs/lang/zh-cn.js line length is 1335 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/a11yhelp/dialogs/lang/zh.js line length is 1003 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/specialchar/dialogs/lang/ar.js line length is 697 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/specialchar/dialogs/lang/bg.js line length is 698 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/specialchar/dialogs/lang/ca.js line length is 518 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/specialchar/dialogs/lang/cs.js line length is 542 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/specialchar/dialogs/lang/cy.js line length is 543 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/specialchar/dialogs/lang/de.js line length is 531 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/specialchar/dialogs/lang/el.js line length is 816 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/specialchar/dialogs/lang/en-gb.js line length is 515 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/specialchar/dialogs/lang/en.js line length is 515 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/specialchar/dialogs/lang/eo.js line length is 518 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/specialchar/dialogs/lang/es.js line length is 543 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/specialchar/dialogs/lang/et.js line length is 531 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/specialchar/dialogs/lang/fa.js line length is 745 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/specialchar/dialogs/lang/fi.js line length is 531 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/specialchar/dialogs/lang/fr-ca.js line length is 538 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/specialchar/dialogs/lang/fr.js line length is 531 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/specialchar/dialogs/lang/gl.js line length is 547 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/specialchar/dialogs/lang/he.js line length is 733 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/specialchar/dialogs/lang/hr.js line length is 537 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/specialchar/dialogs/lang/hu.js line length is 532 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/specialchar/dialogs/lang/id.js line length is 521 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/specialchar/dialogs/lang/it.js line length is 533 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/specialchar/dialogs/lang/ja.js line length is 867 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/specialchar/dialogs/lang/km.js line length is 659 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/specialchar/dialogs/lang/ku.js line length is 810 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/specialchar/dialogs/lang/lv.js line length is 543 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/specialchar/dialogs/lang/nb.js line length is 522 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/specialchar/dialogs/lang/nl.js line length is 545 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/specialchar/dialogs/lang/no.js line length is 522 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/specialchar/dialogs/lang/pl.js line length is 529 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/specialchar/dialogs/lang/pt-br.js line length is 519 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/specialchar/dialogs/lang/pt.js line length is 515 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/specialchar/dialogs/lang/ru.js line length is 802 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/specialchar/dialogs/lang/si.js line length is 837 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/specialchar/dialogs/lang/sk.js line length is 557 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/specialchar/dialogs/lang/sl.js line length is 528 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/specialchar/dialogs/lang/sq.js line length is 566 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/specialchar/dialogs/lang/sv.js line length is 545 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/specialchar/dialogs/lang/th.js line length is 584 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/specialchar/dialogs/lang/tr.js line length is 550 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/specialchar/dialogs/lang/tt.js line length is 759 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/specialchar/dialogs/lang/ug.js line length is 735 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/specialchar/dialogs/lang/uk.js line length is 782 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/specialchar/dialogs/lang/vi.js line length is 633 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/specialchar/dialogs/lang/zh-cn.js line length is 814 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/plugins/specialchar/dialogs/lang/zh.js line length is 781 characters (>512)
+modoboa source: source-is-missing modoboa/static/js/ckeditor/samples/plugins/htmlwriter/assets/outputforflash/swfobject.js line length is 536 characters (>512)

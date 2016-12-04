@@ -1,0 +1,14 @@
+/bin/
+/doc/
+/modoboa/
+/modoboa.egg-info/
+/CONTRIBUTING.rst
+/LICENSE
+/MANIFEST.in
+/PKG-INFO
+/README.rst
+/requirements.txt
+/setup.cfg
+/setup.py
+/build/
+/.pybuild/

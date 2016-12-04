@@ -1,0 +1,25 @@
+#!/bin/sh -e
+
+case "$1" in
+    configure|upgrade)
+        # make sure django log dir exists
+        [ ! -d /var/log/django ] && mkdir /var/log/django
+        # make sure django database dir exists
+        [ ! -d /var/lib/modoboa ] && mkdir /var/lib/modoboa
+        #/usr/bin/modoboa-admin syncdb --noinput
+
+        # make sure database is owned by www-data
+        chown www-data:www-data -R /var/lib/modoboa
+        # an nobody can except www-data can access the database files
+        chmod 0750 /var/lib/modoboa
+        # ... and create the log file if it does not exist
+        if [ ! -f /var/log/django/modoboa.log ]; then
+            touch /var/log/django/modoboa.log
+            chown www-data:www-data /var/log/django/modoboa.log
+        fi
+        ;;
+esac
+
+#DEBHELPER#
+
+exit 0

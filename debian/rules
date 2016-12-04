@@ -1,0 +1,43 @@
+#!/usr/bin/make -f
+
+buildvers := $(shell pyversions -sv)
+#build3vers := $(shell py3versions -sv)
+
+export PYBUILD_NAME=modoboa
+export PYBUILD_DISABLE=test
+
+# Don't compress .py files
+DEB_COMPRESS_EXCLUDE := .py
+
+TARGET_DISTRIBUTION := $(shell dpkg-parsechangelog  | awk '/Distribution/ { print $$2}')
+SUBSTVARS=
+
+%:
+	dh $@ --with python2 --buildsystem=pybuild
+
+override_dh_auto_install:
+	dh_auto_install --buildsystem=pybuild
+	# replace the shipped cmkeditor with the ckeditor package
+	rm -rf $(CURDIR)/debian/python-modoboa/usr/lib/python2.7/dist-packages/modoboa/static/js/ckeditor
+	ln -s /usr/share/javascript/ckeditor $(CURDIR)/debian/python-modoboa/usr/lib/python2.7/dist-packages/modoboa/static/js/ckeditor
+	#rm -rf $(CURDIR)/debian/python3-modoboa/usr/lib/python3.*/dist-packages/modoboa/static/js/ckeditor
+
+	# replace with libjs-jquery
+	rm -rf $(CURDIR)/debian/python-modoboa/usr/lib/python2.7/dist-packages/modoboa/bower_components/jquery
+	ln -s /usr/share/javascript/jquery $(CURDIR)/debian/python-modoboa/usr/lib/python2.7/dist-packages/modoboa/bower_components/jquery
+
+	# replace with fonts-font-awesome
+	rm -f $(CURDIR)/debian/python-modoboa/usr/lib/python2.7/dist-packages/modoboa/bower_components/font-awesome/fonts/fontawesome-webfont.ttf
+	ln -s /usr/share/fonts-font-awesome/fonts/fontawesome-webfont.ttf $(CURDIR)/debian/python-modoboa/usr/lib/python2.7/dist-packages/modoboa/bower_components/font-awesome/fonts/fontawesome-webfont.ttf
+
+	install -m 0644 debian/wsgi.py $(CURDIR)/debian/python-modoboa/usr/lib/python2.7/dist-packages/modoboa/wsgi.py
+
+	install -d -m 0755 $(CURDIR)/debian/modoboa-data/etc/modoboa/config
+	ln -s /etc/modoboa/config/settings.py $(CURDIR)/debian/python-modoboa/usr/lib/python2.7/dist-packages/modoboa/settings.py
+	install -m 0640 debian/settings.py $(CURDIR)/debian/modoboa-data/etc/modoboa/config/settings.py
+
+	install -d -m 0755 $(CURDIR)/debian/modoboa-data/etc/modoboa/static
+	mv $(CURDIR)/debian/python-modoboa/usr/lib/python2.7/dist-packages/modoboa/static/css $(CURDIR)/debian/modoboa-data/etc/modoboa/static
+	ln -s /etc/modoboa/static/css $(CURDIR)/debian/python-modoboa/usr/lib/python2.7/dist-packages/modoboa/static/css
+
+	mv $(CURDIR)/debian/python-modoboa/usr/bin/modoboa-admin.py $(CURDIR)/debian/python-modoboa/usr/bin/modoboa-admin
